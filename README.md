@@ -7,4 +7,5 @@
 Program: Oracle
 
 ---
-+ oracle
++ day01
++ day02
